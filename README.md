@@ -4,6 +4,7 @@ A Python Pygame based random number generator.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d3655f91-0fdf-4b74-9642-8b65d2bacecc" />
 <img width="402" height="231" alt="image" src="https://github.com/user-attachments/assets/3a738169-3233-4c7f-a03e-f44690c695eb" />
 <img width="401" height="230" alt="image" src="https://github.com/user-attachments/assets/b145c787-cea9-48c8-87c6-f2a464abe33f" />
+
 ![Recording 2025-09-27 191821](https://github.com/user-attachments/assets/3ff8d98e-e86e-4527-af21-4e10599484cc)
 
 
